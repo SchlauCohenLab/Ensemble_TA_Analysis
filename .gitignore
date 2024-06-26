@@ -124,5 +124,6 @@ dmypy.json
 .pyre/
 
 # Pycharm
-Code/.idea/
+Ensemble_TA_Data_Analysis/.idea/
 .DS_STORE
+.idea/
